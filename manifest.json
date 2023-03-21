@@ -1,0 +1,29 @@
+{
+    "name": "tic tac toa",
+    "start_url": "/game",
+    "short_name": "xno",
+    "display" : "standalone",
+    "description": "the best game ever",
+    "icons": [
+        {
+            "src": "assets-main/logo-48x48.png",
+            "sizes": "48x48"
+        },
+        {"src": "assets-main/logo-72x72.png",
+        "sizes": "72x72"
+    },
+    {"src": "assets-main/logo-96x96.png",
+        "sizes": "96x96"
+    },
+    {"src": "assets-main/logo-144x144.png",
+        "sizes": "144x144"
+    },
+    {"src": "assets-main/logo-192x192.png",
+        "sizes": "192x192"
+    },
+    {"src": "assets-main/logo-512x512.png",
+        "sizes": "512x512"
+    }
+    ]
+    
+}
